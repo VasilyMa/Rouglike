@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/SusModules/UICurrencyData.cs.meta
+guid: 28e1e525ac2f8f94c9e9764a15e8137f
+========
+guid: 96ccb69128ffb33439ac5220de37beb8
+>>>>>>>> feature/animator_state_machine:Assets/Scripts/Config/AllAbilityConfig.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

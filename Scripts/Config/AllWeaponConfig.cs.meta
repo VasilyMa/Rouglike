@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/MainMenuStartup.cs.meta
+guid: 83256ff143ff5a54d87345fcbddb15a0
+========
+guid: db9bb1115ab649d4897fad85221b4243
+>>>>>>>> feature/animator_state_machine:Assets/Scripts/Config/AllWeaponConfig.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

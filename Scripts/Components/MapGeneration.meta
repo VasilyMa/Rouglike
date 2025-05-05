@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Editor.meta
+guid: d1f95fd48df33dc4884b6a35b091153b
+========
+guid: b9f8972518f181d4f9b042e09aa01785
+>>>>>>>> origin/feature/MapGeneration/Podskalnyy:Assets/Scripts/Components/MapGeneration.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

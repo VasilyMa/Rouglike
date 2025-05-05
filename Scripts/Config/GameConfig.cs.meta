@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5949370cc31189b46bb7d8833d100dd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DesolveMaterial: {instanceID: 0}
+  - AttackLine: {instanceID: 0}
+  - TESTENEMYCONFIG: {instanceID: 0}
+  - GeneralBiomsConfig: {instanceID: 0}
+  - RoomsConfigs: {instanceID: 0}
+  - TiersConfig: {instanceID: 0}
+  - TeleGO: {instanceID: 0}
+  - MegaTeleGO: {instanceID: 0}
+  - FullShield: {instanceID: 0}
+  - BrokenShield: {instanceID: 0}
+  - RestoringShield: {instanceID: 0}
+  - PlayerGO: {instanceID: 0}
+  - GoldCoinsTest: {fileID: 1845698962155496, guid: 49bbdfcf1b67d0a41b27589b392824d9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

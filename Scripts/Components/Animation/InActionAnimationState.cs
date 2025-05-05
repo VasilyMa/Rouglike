@@ -1,0 +1,6 @@
+namespace Client {
+    struct InActionAnimationState 
+    {
+
+    }
+}

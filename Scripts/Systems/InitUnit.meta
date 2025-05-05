@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/UtilityAI.meta
+guid: 783d156fb76f0c7468cd514a3f71ee54
+========
+guid: adc6c268543800a47b71cb4ce409ba0f
+>>>>>>>> refac/enemy_abilities:Assets/Scripts/Systems/InitUnit.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

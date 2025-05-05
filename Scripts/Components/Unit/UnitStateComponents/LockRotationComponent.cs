@@ -1,0 +1,9 @@
+
+
+namespace Client {
+    struct LockRotationComponent
+    {
+        
+
+    }
+}
